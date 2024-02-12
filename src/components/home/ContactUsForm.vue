@@ -6,6 +6,7 @@ const message = defineModel('message');
 const name = defineModel('name');
 const email = defineModel('email');
 </script>
+
 <template>
   <form class="my-5 p-3">
     <div class="mb-5">

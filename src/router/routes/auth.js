@@ -1,7 +1,7 @@
 import LayoutAuth from '@/components/layout/LayoutAuth.vue';
-import Login from '@/components/auth/Login.vue';
-import Register from '@/components/auth/Register.vue';
-import Profile from '@/components/profile/Profile.vue';
+import Login from '@/views/auth/Login.vue';
+import Register from '@/views/auth/Register.vue';
+import Profile from '@/views/user/Profile.vue';
 
 export default {
   path: '/auth',
