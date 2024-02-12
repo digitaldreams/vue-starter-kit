@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#app_hero {
+  background-image: url('images/banner-background.jpeg');
+}
