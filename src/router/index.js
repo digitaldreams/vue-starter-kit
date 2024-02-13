@@ -1,5 +1,6 @@
 import { createRouter, createWebHistory } from 'vue-router';
 import authRoutes from './routes/auth';
+import mainRoutes from './routes/main';
 
 const router = createRouter({
   history: createWebHistory(),
@@ -13,6 +14,7 @@ const router = createRouter({
       component: () => import('@/views/Home.vue'),
     },
     authRoutes,
+    mainRoutes
   ],
 });
 

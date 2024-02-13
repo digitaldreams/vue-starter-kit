@@ -17,5 +17,6 @@ const quotationCallBack = (number) => {
     slogan="Lets build a digital community together"
   />
   <ContactUs />
+  
   <Footer />
 </template>
