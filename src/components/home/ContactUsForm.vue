@@ -1,50 +1,29 @@
 <script setup>
 import { defineModel } from 'vue';
-
+import Input from '../form/Input.vue';
 const subject = defineModel('subject');
 const message = defineModel('message');
 const name = defineModel('name');
 const email = defineModel('email');
+
+
 </script>
 
 <template>
   <form class="my-5 p-3">
-    <div class="mb-5">
-      <label for="subject" class="mb-2 block text-xl">Subject</label>
-      <input
-        type="text"
-        name="Subject"
-        id="subject"
-        class="bg-gray-100 w-full p-1 rounded border border-gray-200 hover:shadow"
-        v-model="subject"
-      />
-    </div>
+    <Input type="text" v-model="subject" id="subject" name="subject" label="Subject"/>
     <div class="mb-5">
       <label class="mb-2 block text-xl">Message</label>
       <textarea
-        name="Subject"
+        name="message"
         v-model="message"
         class="bg-gray-100 w-full p-1 rounded border border-gray-200 hover:shadow"
       ></textarea>
     </div>
-    <div class="mb-5">
-      <label class="mb-2 block text-xl">Name </label>
-      <input
-        type="text"
-        name="Subject"
-        v-model="name"
-        class="bg-gray-100 w-full p-1 rounded border border-gray-200 hover:shadow"
-      />
-    </div>
-    <div class="mb-5">
-      <label class="mb-2 block text-xl">Email</label>
-      <input
-        type="text"
-        name="Subject"
-        v-model="email"
-        class="bg-gray-100 w-full p-1 col-span-2 rounded border border-gray-200 hover:shadow"
-      />
-    </div>
+    <Input type="text" v-model="name" id="name" name="name" label="Name"/>
+
+    <Input type="email" v-model="email" id="email" name="email" label="Email Address"/>
+
     <div class="text-center">
       <input
         type="submit"

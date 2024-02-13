@@ -13,6 +13,20 @@
             "title": "Dev Ops",
             "description": "Dev Ops servies Best web development service Best web development service",
             "link": "https://youtue.com"
+        },
+        {
+            "id": 3,
+            "image": "https://picsum.photos/id/30/500/400",
+            "title": "CMS development",
+            "description": "Dev Ops servies Best web development service Best web development service",
+            "link": "https://youtue.com"
+        },
+        {
+            "id": 4,
+            "image": "https://picsum.photos/id/88/500/400",
+            "title": "Marketing",
+            "description": "Dev Ops servies Best web development service Best web development service",
+            "link": "https://youtue.com"
         }
     ]
 
