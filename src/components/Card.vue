@@ -17,7 +17,7 @@ const data = defineProps({
                 <button @click="$emit('delete',data.id)" class=" text-white text-xs px-2 rounded-full">Delete</button>
 
             </div>
-            <img class="rounded-t object-cover" :src="data.image" />
+            <img class="rounded-t object-fill" :src="data.image" />
         <div class="p-3">
         <h3 class="text-xl pb-2 text-center">
           <a :href="data.link">  {{ data.title }}</a>
