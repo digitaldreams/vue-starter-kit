@@ -1,4 +1,6 @@
 <script setup></script>
 <template>
-    <h1>Projects</h1>
+    <div>
+        <h1>Projects</h1>
+    </div>
 </template>

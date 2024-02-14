@@ -1,2 +1,4 @@
 <script setup></script>
-<template>Login</template>
+<template>
+    <div>Login</div>
+</template>

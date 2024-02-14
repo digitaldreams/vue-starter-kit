@@ -1,2 +1,6 @@
 <script setup></script>
-<template>Register</template>
+<template>
+<div>
+    Register
+</div>
+</template>

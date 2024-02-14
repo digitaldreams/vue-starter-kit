@@ -1,0 +1,8 @@
+{
+    "data":{
+        "image" : "https://avatars.githubusercontent.com/u/6059541?v=4",
+        "title" : "Senior Web developer",
+        "description" : "Software Developer with 10 years progressive experience in the design, development, testing of web based software application.",
+        "skills" : ["Symfony","Laravel","PHP","ReactJs","VueJs","TailwindCss"]
+    }
+}
