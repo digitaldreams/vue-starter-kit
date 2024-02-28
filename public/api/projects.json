@@ -1,0 +1,289 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "start_time": "2024-03-01",
+      "end_time": "2024-04-01",
+      "est_budget": 5000,
+      "title": "E-commerce Website Development",
+      "description": "Developed a fully functional e-commerce website with payment integration and inventory management.",
+      "image": "https://source.unsplash.com/random/800x600/?ecommerce",
+      "category": "Web Development",
+      "technologies": ["HTML", "CSS", "JavaScript", "PHP", "Laravel"]
+    },
+    {
+      "id": 2,
+      "start_time": "2024-03-15",
+      "end_time": "2024-04-30",
+      "est_budget": 7000,
+      "title": "Corporate Website Redesign",
+      "description": "Redesigned the corporate website to enhance user experience and improve brand representation.",
+      "image": "https://source.unsplash.com/random/800x600/?corporate",
+      "category": "Web Development",
+      "technologies": ["HTML", "CSS", "JavaScript", "React.js", "Node.js"]
+    },
+    {
+      "id": 3,
+      "start_time": "2024-04-10",
+      "end_time": "2024-05-20",
+      "est_budget": 10000,
+      "title": "Custom Web Application Development",
+      "description": "Developed a custom web application tailored to client's specific business requirements.",
+      "image": "https://source.unsplash.com/random/800x600/?customwebapp",
+      "category": "Web Development",
+      "technologies": ["HTML", "CSS", "JavaScript", "Python", "Django"]
+    },
+    {
+      "id": 4,
+      "start_time": "2024-04-25",
+      "end_time": "2024-05-30",
+      "est_budget": 8000,
+      "title": "Content Management System (CMS) Development",
+      "description": "Built a flexible content management system to manage website content efficiently.",
+      "image": "https://source.unsplash.com/random/800x600/?cms",
+      "category": "Web Development",
+      "technologies": ["HTML", "CSS", "JavaScript", "PHP", "WordPress"]
+    },
+    {
+      "id": 5,
+      "start_time": "2024-05-10",
+      "end_time": "2024-06-20",
+      "est_budget": 6000,
+      "title": "Web Performance Optimization",
+      "description": "Optimized website performance to ensure fast loading times and improved user experience.",
+      "image": "https://source.unsplash.com/random/800x600/?performance",
+      "category": "Web Development",
+      "technologies": ["HTML", "CSS", "JavaScript", "Webpack", "Gatsby"]
+    },
+    {
+      "id": 6,
+      "start_time": "2024-05-25",
+      "end_time": "2024-07-05",
+      "est_budget": 9000,
+      "title": "Progressive Web App (PWA) Development",
+      "description": "Developed a progressive web app with offline capabilities and push notifications.",
+      "image": "https://source.unsplash.com/random/800x600/?pwa",
+      "category": "Web Development",
+      "technologies": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "React.js",
+        "Service Workers"
+      ]
+    },
+    {
+      "id": 7,
+      "start_time": "2024-06-05",
+      "end_time": "2024-07-15",
+      "est_budget": 7500,
+      "title": "Web Security Enhancement",
+      "description": "Enhanced website security to protect against potential cyber threats and vulnerabilities.",
+      "image": "https://source.unsplash.com/random/800x600/?security",
+      "category": "Web Development",
+      "technologies": ["SSL/TLS", "OWASP Top 10", "Security Headers"]
+    },
+    {
+      "id": 8,
+      "start_time": "2024-06-20",
+      "end_time": "2024-07-30",
+      "est_budget": 8500,
+      "title": "Web API Development",
+      "description": "Developed RESTful APIs to enable seamless communication between web applications and external services.",
+      "image": "https://source.unsplash.com/random/800x600/?api",
+      "category": "Web Development",
+      "technologies": ["Node.js", "Express.js", "MongoDB", "REST"]
+    },
+    {
+      "id": 9,
+      "start_time": "2024-07-05",
+      "end_time": "2024-08-15",
+      "est_budget": 7000,
+      "title": "E-commerce Platform Migration",
+      "description": "Migrated existing e-commerce platform to a more scalable and efficient solution.",
+      "image": "https://source.unsplash.com/random/800x600/?migration",
+      "category": "Web Development",
+      "technologies": ["Magento", "Shopify", "WooCommerce"]
+    },
+    {
+      "id": 10,
+      "start_time": "2024-07-20",
+      "end_time": "2024-08-30",
+      "est_budget": 9500,
+      "title": "Web Accessibility Compliance",
+      "description": "Ensured website compliance with web accessibility standards to make it accessible to all users.",
+      "image": "https://source.unsplash.com/random/800x600/?accessibility",
+      "category": "Web Development",
+      "technologies": ["WCAG", "ARIA", "Screen Readers"]
+    },
+    {
+      "id": 11,
+      "start_time": "2024-08-05",
+      "end_time": "2024-09-15",
+      "est_budget": 8000,
+      "title": "Server-side Rendered (SSR) Web Application",
+      "description": "Developed a server-side rendered web application for improved performance and SEO.",
+      "image": "https://source.unsplash.com/random/800x600/?ssr",
+      "category": "Web Development",
+      "technologies": ["React.js", "Next.js", "Node.js", "Express.js"]
+    },
+    {
+      "id": 12,
+      "start_time": "2024-08-20",
+      "end_time": "2024-09-30",
+      "est_budget": 7000,
+      "title": "Static Site Generation (SSG) Blog",
+      "description": "Built a static site generation blog using Next.js for fast and efficient content delivery.",
+      "image": "https://source.unsplash.com/random/800x600/?ssg",
+      "category": "Web Development",
+      "technologies": ["Next.js", "React.js", "Markdown", "Tailwind CSS"]
+    },
+    {
+      "id": 13,
+      "start_time": "2024-09-05",
+      "end_time": "2024-10-15",
+      "est_budget": 9000,
+      "title": "Universal Vue.js Application",
+      "description": "Developed a universal Vue.js application for seamless rendering on both client and server.",
+      "image": "https://source.unsplash.com/random/800x600/?vue",
+      "category": "Web Development",
+      "technologies": ["Vue.js", "Nuxt.js", "Vuex", "Vuetify"]
+    },
+    {
+      "id": 14,
+      "start_time": "2024-09-20",
+      "end_time": "2024-10-30",
+      "est_budget": 7500,
+      "title": "React Native Web Application",
+      "description": "Developed a web application using React Native for cross-platform compatibility.",
+      "image": "https://source.unsplash.com/random/800x600/?reactnative",
+      "category": "Web Development",
+      "technologies": ["React Native", "React.js", "Expo"]
+    },
+    {
+      "id": 15,
+      "start_time": "2024-10-05",
+      "end_time": "2024-11-15",
+      "est_budget": 8500,
+      "title": "Full-stack TypeScript Application",
+      "description": "Built a full-stack application using TypeScript for type safety and improved developer experience.",
+      "image": "https://source.unsplash.com/random/800x600/?typescript",
+      "category": "Web Development",
+      "technologies": ["TypeScript", "React.js", "Node.js", "Express.js"]
+    },
+    {
+      "id": 16,
+      "start_time": "2024-10-20",
+      "end_time": "2024-11-30",
+      "est_budget": 9500,
+      "title": "Nuxt.js E-commerce Platform",
+      "description": "Developed an e-commerce platform using Nuxt.js for fast and scalable web applications.",
+      "image": "https://source.unsplash.com/random/800x600/?nuxt",
+      "category": "Web Development",
+      "technologies": ["Nuxt.js", "Vue.js", "Tailwind CSS", "Strapi"]
+    },
+    {
+      "id": 17,
+      "start_time": "2024-11-05",
+      "end_time": "2024-12-15",
+      "est_budget": 8000,
+      "title": "Progressive Web App with Vue.js",
+      "description": "Developed a progressive web app using Vue.js for enhanced user experience.",
+      "image": "https://source.unsplash.com/random/800x600/?pwa",
+      "category": "Web Development",
+      "technologies": ["Vue.js", "Service Workers", "PWA"]
+    },
+    {
+      "id": 18,
+      "start_time": "2024-11-20",
+      "end_time": "2024-12-30",
+      "est_budget": 7000,
+      "title": "React.js Dashboard Application",
+      "description": "Built a dashboard application using React.js for data visualization and analytics.",
+      "image": "https://source.unsplash.com/random/800x600/?dashboard",
+      "category": "Web Development",
+      "technologies": ["React.js", "Redux", "Chart.js", "Material-UI"]
+    },
+    {
+      "id": 19,
+      "start_time": "2025-01-05",
+      "end_time": "2025-02-15",
+      "est_budget": 8500,
+      "title": "Vue.js Single Page Application (SPA)",
+      "description": "Developed a single page application using Vue.js for seamless navigation and user interaction.",
+      "image": "https://source.unsplash.com/random/800x600/?spa",
+      "category": "Web Development",
+      "technologies": ["Vue.js", "Vue Router", "Vuex", "Bootstrap Vue"]
+    },
+    {
+      "id": 20,
+      "start_time": "2025-01-20",
+      "end_time": "2025-02-28",
+      "est_budget": 9000,
+      "title": "Next.js Blog with Tailwind CSS",
+      "description": "Built a blog using Next.js and Tailwind CSS for a fast and stylish content management system.",
+      "image": "https://source.unsplash.com/random/800x600/?nextjs",
+      "category": "Web Development",
+      "technologies": ["Next.js", "React.js", "Tailwind CSS"]
+    },
+    {
+      "id": 21,
+      "start_time": "2025-03-05",
+      "end_time": "2025-04-15",
+      "est_budget": 10000,
+      "title": "Continuous Integration/Continuous Deployment (CI/CD) Pipeline Setup",
+      "description": "Implemented a CI/CD pipeline to automate the software delivery process, including testing, building, and deployment.",
+      "image": "https://source.unsplash.com/random/800x600/?cicd",
+      "category": "DevOps",
+      "technologies": ["Jenkins", "GitLab CI", "GitHub Actions"]
+    },
+    {
+      "id": 22,
+      "start_time": "2025-04-01",
+      "end_time": "2025-05-10",
+      "est_budget": 8500,
+      "title": "Infrastructure as Code (IaC) Implementation",
+      "description": "Implemented Infrastructure as Code to automate provisioning and management of infrastructure resources.",
+      "image": "https://source.unsplash.com/random/800x600/?iac",
+      "category": "DevOps",
+      "technologies": [
+        "Terraform",
+        "AWS CloudFormation",
+        "Azure Resource Manager"
+      ]
+    },
+    {
+      "id": 23,
+      "start_time": "2025-05-01",
+      "end_time": "2025-06-15",
+      "est_budget": 9500,
+      "title": "Container Orchestration with Kubernetes",
+      "description": "Set up and configured Kubernetes for container orchestration, scaling, and management.",
+      "image": "https://source.unsplash.com/random/800x600/?kubernetes",
+      "category": "DevOps",
+      "technologies": ["Kubernetes", "Docker", "Helm"]
+    },
+    {
+      "id": 24,
+      "start_time": "2025-06-01",
+      "end_time": "2025-07-15",
+      "est_budget": 9000,
+      "title": "Log Management and Monitoring Solution",
+      "description": "Implemented a centralized log management and monitoring solution for real-time visibility and analysis of system logs.",
+      "image": "https://source.unsplash.com/random/800x600/?logmanagement",
+      "category": "DevOps",
+      "technologies": ["ELK Stack", "Prometheus", "Grafana"]
+    },
+    {
+      "id": 25,
+      "start_time": "2025-07-01",
+      "end_time": "2025-08-15",
+      "est_budget": 8000,
+      "title": "Infrastructure Security Automation",
+      "description": "Automated security checks and compliance enforcement across infrastructure resources for improved security posture.",
+      "image": "https://source.unsplash.com/random/800x600/?securityautomation",
+      "category": "DevOps",
+      "technologies": ["Terraform", "AWS Config", "Azure Security Center"]
+    }
+  ]
+}
